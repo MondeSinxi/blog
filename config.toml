@@ -1,7 +1,7 @@
 baseURL = "https://mondesinxi.github.io/"
 languageCode = "en-us"
 title = "Monde Sinxi"
-theme = "beautifulhugo"
+theme = "beautifulhugo2"
 
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
@@ -17,7 +17,7 @@ pygmentsCodefencesGuessSyntax = true
 
   homeTitle = "Whose Data is it Anyway?" # Set a different text for the header on the home page
   subtitle = "We Love All Things Python. We Love All Things Data."
-  logo = "img/5-man-beard-emoji-by-twitter.png"
+  logo = "static/img/5-man-beard-emoji-by-twitter.png"
 #  logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   commit = false
